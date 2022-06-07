@@ -7,13 +7,12 @@ Developpeur en formation à Epitech.
 À la Recherceh de Stage, juillet 2022 de 4 à 6 mois.
 Très interessé par la cybersécurité, mais ouvert à toute autre proposition.
 
+
 Contact:
 
-07 67 70 69 44
+Numéro : 07 67 70 69 44
 
+Email : adam.yahia-abdchafee@epitech.eu
 
-adam.yahia-abdchafee@epitech.eu
-
-
-www.linkedin.com/in/Yahia-Abechafee
+Linkedin : www.linkedin.com/in/Yahia-Abechafee
 
