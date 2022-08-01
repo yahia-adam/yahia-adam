@@ -1,3 +1,10 @@
+
+<h1 align="center"> 
+  
+  ![programing_gif](https://user-images.githubusercontent.com/91891487/182153577-7bdc2399-67b2-49da-80ab-5da2eb795551.gif)
+  
+</h1>
+
 <h1 align="center">Hi 👋, I'm Yahia abdchafee ADAM</h1>
 <h3 align="center">A passionate about programing from French</h3>
 
@@ -15,11 +22,10 @@
 
 - 📫 How to reach me **adam.yahia.abdchafee@gmail.com**
 
-- 📄 Know about my experiences [portepholiolink](portepholiolink) <p align="right"> ![programing_gif](https://user-images.githubusercontent.com/91891487/182149927-7a383d02-015f-44f7-89d3-d6100439c2ae.gif)
-</p>
+- 📄 Know about my experiences [portepholiolink](portepholiolink)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://linkedin.com/in/yahia-abechafee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahia-abechafee/" height="30" width="40" /></a>
 <a href="https://discord.gg/Y.abdchafee Adam#9019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Y.abdchafee Adam#9019" height="30" width="40" /></a>
 </p>
