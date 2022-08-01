@@ -1,5 +1,3 @@
-![programing_gif](https://user-images.githubusercontent.com/91891487/182149927-7a383d02-015f-44f7-89d3-d6100439c2ae.gif)
-
 <h1 align="center">Hi 👋, I'm Yahia abdchafee ADAM</h1>
 <h3 align="center">A passionate about programing from French</h3>
 
@@ -17,7 +15,8 @@
 
 - 📫 How to reach me **adam.yahia.abdchafee@gmail.com**
 
-- 📄 Know about my experiences [portepholiolink](portepholiolink)
+- 📄 Know about my experiences [portepholiolink](portepholiolink) <p align="right"> ![programing_gif](https://user-images.githubusercontent.com/91891487/182149927-7a383d02-015f-44f7-89d3-d6100439c2ae.gif)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
