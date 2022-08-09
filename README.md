@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help with [FontaineblueFrenchSchool](https://github.com/Yahia-Abdchafee-ADAM/fontainebluefrenchschool)
 
-- 👨‍💻 All of my projects are available at [portepholiolink](https://github.com/Yahia-Abdchafee-ADAM?preview=true&tab=repositories)
+- 👨‍💻 All of my projects are available on [github](https://github.com/Yahia-Abdchafee-ADAM?preview=true&tab=repositories)
 
 - 📝 I often publishes videos on [youtube](youtube)
 
