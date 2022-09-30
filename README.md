@@ -17,8 +17,6 @@
 
 - 🌱 I’m currently learning **react, html, php, and javascript**
 
-- 🤝 I’m looking for help with [FontaineblueFrenchSchool](https://github.com/Yahia-Abdchafee-ADAM/fontainebluefrenchschool)
-
 - 👨‍💻 All of my projects are available on [github repositories](https://github.com/Yahia-Abdchafee-ADAM?preview=true&tab=repositories)
 
 - 💬 Ask me about **C, phyton**                                                 
