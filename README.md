@@ -15,8 +15,6 @@
 <h1 align="center">Hi 👋, I'm Yahia abdchafee ADAM</h1>
 <h3 align="center">A passionate about programing from French</h3>
 
-- 🔭 I’m currently working on [FontaineblueFrenchSchool](https://github.com/Yahia-Abdchafee-ADAM/fontainebluefrenchschool)
-
 - 🌱 I’m currently learning **react, html, php, and javascript**
 
 - 🤝 I’m looking for help with [FontaineblueFrenchSchool](https://github.com/Yahia-Abdchafee-ADAM/fontainebluefrenchschool)
@@ -27,7 +25,6 @@
 
 - 📫 How to reach me **adam.yahia.abdchafee@gmail.com**
 
-- 📄 Know about my experiences [portepholiolink](https://yahia-abdchafee-adam.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 
