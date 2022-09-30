@@ -15,7 +15,7 @@
 <h1 align="center">Hi 👋, I'm Yahia abdchafee ADAM</h1>
 <h3 align="center">A passionate about programing from French</h3>
 
-- 🌱 I’m currently learning **react, html, php, and javascript**
+- 🌱 I’m currently learning **react, php, and javascript**
 
 - 👨‍💻 All of my projects are available on [github repositories](https://github.com/Yahia-Abdchafee-ADAM?preview=true&tab=repositories)
 
