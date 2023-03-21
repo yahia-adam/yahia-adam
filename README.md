@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available on [github repositories](https://github.com/Yahia-Abdchafee-ADAM?preview=true&tab=repositories)
 
-- 💬 Ask me about **C, phyton, symfony **                                                 
+- 💬 Ask me about **C, phyton, symfony**                                              
 
 - 📫 How to reach me **adam.yahia.abdchafee@gmail.com**
 
