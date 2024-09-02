@@ -1,5 +1,3 @@
-
-
 <h1 align="right">
 
 <img src="https://user-images.githubusercontent.com/91891487/182157657-b2ddbc69-f18c-413a-b1ca-a7d3f22a098d.jpg" alt="esgi" width="40" height="40"/>
@@ -13,7 +11,12 @@
 </h1>
 
 # 💫 About Me:
-- 🔭 **I’m currently working on:** a project on an event recommendation system.<br>- 👯 **I’m looking to collaborate on:** open source projects in AI with highly motivated students.<br>- 🤝 **I’m looking for help with:** learning AI in all its domains.<br>- 🌱 **I’m currently learning:** reinforcement learning and recommendation systems.<br>- 💬 **Ask me about:** event recommendation systems and AI.<br>- ⚡ Fun fact: I have a collection of event cards from hackathons, tech events, and conferences. 🌟
+- 🔭 **I’m currently working on:** a project on an event recommendation system.<br>
+- 👯 **I’m looking to collaborate on:** open source projects in AI with highly motivated students.<br>
+- 🤝 **I’m looking for help with:** learning AI in all its domains.<br>
+- 🌱 **I’m currently learning:** reinforcement learning and recommendation systems.<br>
+- 💬 **Ask me about:** event recommendation systems and AI.<br>
+- ⚡ Fun fact: I have a collection of event cards from hackathons, tech events, and conferences. 🌟
 
 
 ## 🌐 Socials:
